@@ -21,12 +21,12 @@
 .grid_container{
 	display: grid;
 	grid-template-areas:
-    	'header header header header'
-    	'menubar menubar menubar menubar'
-    	'menu container container container'
-    	'menu container container container'
-    	'footer footer footer footer';
-    text-align: center;
+    		'header header header header'
+    		'menubar menubar menubar menubar'
+    		'menu container container container'
+    		'menu container container container'
+    		'footer footer footer footer';
+    	text-align: center;
 }
 .grid_container > div{
 	padding: 50px;
